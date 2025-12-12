@@ -1,4 +1,5 @@
 <?php
+
 namespace Config;
 
 // Create a new instance of our RouteCollection class.
@@ -39,7 +40,7 @@ $routes->group('/', function ($routes) {
 });
 
 // '/', ['filter'=> 'auth'], function ($routes)
-$routes->group('/', ['filter'=> 'auth'], function ($routes) {
+$routes->group('/', ['filter' => 'auth'], function ($routes) {
     $routes->add('superuser', 'Admin\Admin::superuser');
     $routes->add('sukses', 'Admin\Admin::sukses');
 
@@ -115,7 +116,7 @@ $routes->group('/', ['filter'=> 'auth'], function ($routes) {
     $routes->add('bbm', 'Admin\Transaksi::bbm');
     $routes->add('daftar_pakai_kend', 'Admin\Transaksi::daftar_pakai_kend');
     $routes->add('set_pas', 'Admin\Transaksi::set_pas');
-    
+
     $routes->add('eval_tiket_user', 'Admin\Evaluasi::eval_tiket_user');
     $routes->add('detail_evaluasi_tiket/(:any)', 'Admin\Evaluasi::detail_evaluasi_tiket/$1/$2');
     $routes->add('eval_akomodasi_user', 'Admin\Evaluasi::eval_akomodasi_user');
@@ -130,12 +131,15 @@ $routes->group('/', ['filter'=> 'auth'], function ($routes) {
 });
 
 // '/', ['filter'=> 'noauth'], function ($routes)
-$routes->group('/', ['filter'=> 'noauth'], function ($routes) {
+$routes->group('/', ['filter' => 'noauth'], function ($routes) {
     $routes->add('', 'Admin\Admin::main_page');
-    $routes->add('produk_kelas5', 'Admin\Admin::produk_kelas5');
-    $routes->add('produk_kelas7', 'Admin\Admin::produk_kelas7');
-    $routes->add('produk_kelas10', 'Admin\Admin::produk_kelas10');
-    $routes->add('produk_kelas11', 'Admin\Admin::produk_kelas11');
+    $routes->add('produk_kelas5_kod', 'Admin\Admin::produk_kelas5_kod');
+    $routes->add('produk_kelas7_kod', 'Admin\Admin::produk_kelas7_kod');
+    $routes->add('produk_kelas10_kod', 'Admin\Admin::produk_kelas10_kod');
+    $routes->add('produk_kelas11_kod', 'Admin\Admin::produk_kelas11_kod');
+    $routes->add('produk_kelas7_ing', 'Admin\Admin::produk_kelas7_ing');
+    $routes->add('produk_kelas8_ing', 'Admin\Admin::produk_kelas8_ing');
+    $routes->add('produk_kelas9_ing', 'Admin\Admin::produk_kelas9_ing');
     $routes->add('post_login', 'Admin\Admin::post_login');
     $routes->add('ci4', 'Home::index');
 });

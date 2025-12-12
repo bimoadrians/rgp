@@ -45,7 +45,7 @@
         <div class="container section-title" data-aos="fade-up">
             <h2>PT. Rivendra Gagak Sipat Perkasa</h2>
             <!-- <div><span>Check Our</span> <span class="description-title">Services</span></div> -->
-                <div><span>"Offset, Publishing & Trading Company"</span></div>
+            <div><span>"Offset, Publishing & Trading Company"</span></div>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -57,7 +57,9 @@
                             <i class="bi bi-shield-check"></i>
                         </div>
                         <h3>not The First but The Best</h3>
-                        <p>Kesempurnaan kualitas produk dari Putra Nugraha selalu kami utamakan untuk dapat memenuhi kepuasan konsumen. Dengan motto “NOT THE FIRST BUT THE BEST” meski kami bukan yang pertama, tetapi kami berusaha menjadi yang terbaik.</p>
+                        <p>Kesempurnaan kualitas produk dari Putra Nugraha selalu kami utamakan untuk dapat memenuhi
+                            kepuasan konsumen. Dengan motto “NOT THE FIRST BUT THE BEST” meski kami bukan yang pertama,
+                            tetapi kami berusaha menjadi yang terbaik.</p>
                         <!-- <ul class="service-features">
                             <li><i class="bi bi-check-circle"></i> Market Analysis</li>
                             <li><i class="bi bi-check-circle"></i> Competitive Positioning</li>
@@ -148,41 +150,357 @@
                     },
                 </script> -->
                 <script type="application/json" class="swiper-config">
-                {
-                    "speed": 800,
-                    "autoplay": {
-                        "delay": 3000
-                    },
-                    "slidesPerView": 1,
-                    "spaceBetween": 30,
-                    "pagination": {
-                        "el": ".swiper-pagination",
-                        "type": "bullets",
-                        "clickable": true
-                    },
-                    "navigation": {
-                        "nextEl": ".swiper-button-next",
-                        "prevEl": ".swiper-button-prev"
-                    },
-                    "breakpoints": {
-                        "576": {
-                            "slidesPerView": 2
+                    {
+                        "speed": 800,
+                        "autoplay": {
+                            "delay": 3000
                         },
-                        "992": {
-                            "slidesPerView": 3
+                        "slidesPerView": 1,
+                        "spaceBetween": 30,
+                        "pagination": {
+                            "el": ".swiper-pagination",
+                            "type": "bullets",
+                            "clickable": true
                         },
-                        "1200": {
-                            "slidesPerView": 4
+                        "navigation": {
+                            "nextEl": ".swiper-button-next",
+                            "prevEl": ".swiper-button-prev"
+                        },
+                        "breakpoints": {
+                            "576": {
+                                "slidesPerView": 2
+                            },
+                            "992": {
+                                "slidesPerView": 3
+                            },
+                            "1200": {
+                                "slidesPerView": 4
+                            }
                         }
                     }
-                }
                 </script>
                 <div class="swiper-wrapper">
-                    <!-- Kelas V -->
+                    <!-- Kelas VII Bahasa Inggris -->
                     <div class="swiper-slide">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="asset/img/product/Cover Koding dan KA Kls 5.jpeg" class="img-fluid" alt="" loading="lazy">
+                                <img src="asset/img/product/Cover Inggris Kls 7.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
+                                <div class="team-overlay">
+                                    <div class="social-links">
+                                        <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                        <a href="#"><i class="bi bi-facebook"></i></a>
+                                        <a href="#"><i class="bi bi-instagram"></i></a>
+                                        <a href="#"><i class="bi bi-linkedin"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-content" style="text-align: center;">
+                                <h3>Kelas VII</h3>
+                                <span></span>
+                                <!-- <table>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Judul Buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Koding dan Kecerdasan Artifisial (KA) untuk SMP/MTs Kelas VII<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Penulis<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Candra Yanu Wardhana<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Jumlah halaman<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>224<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ukuran buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>17,6 x 25 cm<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Harga<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses pengajuan HET<td>
+                                    </tr>
+                                    <tr>
+                                        <td>ISBN<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td style ="vertical-align: top;">Sinopsis<td>
+                                        <td style ="vertical-align: top;">:<td>
+                                        <td><td>
+                                        <td>Pembelajaran koding dan kecerdasan artifisial (KKA) dipandang sebagai bagian penting dari literasi digital. Dengan pembelajaran KKA, siswa dapat memahami cara kerja teknologi dan menjadi konsumen informasi yang cerdas dan bertanggung jawab.
+                                            <br><br>
+                                            Buku <i>Koding dan Kecerdasan Artifisial untuk SMP/MTs Kelas VII</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                            <br>
+                                            <table>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">1.<td>
+                                                    <td><td>
+                                                    <td>Berpikir komputasional<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">2.<td>
+                                                    <td><td>
+                                                    <td>Literasi Digital<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">3.<td>
+                                                    <td><td>
+                                                    <td>Literasi dan Etika Kecerdasan Artifisial<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">4.<td>
+                                                    <td><td>
+                                                    <td>Pemanfaatan dan Pengembangan Kecerdasan Artifisial<td>
+                                                </tr>
+                                            </table>
+                                            <br>
+                                            Siswa akan memahami peran teknologi di kehidupan sekitar mereka melalui buku ini. Aktivitas pembelajaran di buku ini mengajak siswa agar tidak malas berpikir meskipun tersedia kemudahan dengan adanya teknologi. Melalui buku ini, siswa juga akan lebih mengenal dan memahami koding dan kecerdasan artifisial. Dengan demikian, siswa dapat menggunakan pengetahuan dan keterampilannya dengan tepat dan bermanfaat luas berbekal koding dan kecerdasan artifisial.
+                                        <td>
+                                    </tr>
+                                </table> -->
+                            </div>
+                            <!-- <div id="detail_press2" class="team-overlay">
+                            </div> -->
+                            <?php
+                                $produk_kelas7_ing = site_url("produk_kelas7_ing");
+                            ?>
+                            <div class="container section-title" style="cursor:grab;">
+                                <a
+                                    href="<?php echo $produk_kelas7_ing?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Kelas VIII Bahasa Inggris -->
+                    <div class="swiper-slide">
+                        <div class="team-card">
+                            <div class="team-image">
+                                <img src="asset/img/product/Cover Inggris Kls 8.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
+                                <div class="team-overlay">
+                                    <div class="social-links">
+                                        <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                        <a href="#"><i class="bi bi-facebook"></i></a>
+                                        <a href="#"><i class="bi bi-instagram"></i></a>
+                                        <a href="#"><i class="bi bi-linkedin"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-content" style="text-align: center;">
+                                <h3>Kelas VIII</h3>
+                                <span></span>
+                                <!-- <table>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Judul Buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Koding dan Kecerdasan Artifisial (KA) untuk SMP/MTs Kelas VII<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Penulis<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Candra Yanu Wardhana<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Jumlah halaman<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>224<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ukuran buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>17,6 x 25 cm<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Harga<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses pengajuan HET<td>
+                                    </tr>
+                                    <tr>
+                                        <td>ISBN<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td style ="vertical-align: top;">Sinopsis<td>
+                                        <td style ="vertical-align: top;">:<td>
+                                        <td><td>
+                                        <td>Pembelajaran koding dan kecerdasan artifisial (KKA) dipandang sebagai bagian penting dari literasi digital. Dengan pembelajaran KKA, siswa dapat memahami cara kerja teknologi dan menjadi konsumen informasi yang cerdas dan bertanggung jawab.
+                                            <br><br>
+                                            Buku <i>Koding dan Kecerdasan Artifisial untuk SMP/MTs Kelas VII</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                            <br>
+                                            <table>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">1.<td>
+                                                    <td><td>
+                                                    <td>Berpikir komputasional<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">2.<td>
+                                                    <td><td>
+                                                    <td>Literasi Digital<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">3.<td>
+                                                    <td><td>
+                                                    <td>Literasi dan Etika Kecerdasan Artifisial<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">4.<td>
+                                                    <td><td>
+                                                    <td>Pemanfaatan dan Pengembangan Kecerdasan Artifisial<td>
+                                                </tr>
+                                            </table>
+                                            <br>
+                                            Siswa akan memahami peran teknologi di kehidupan sekitar mereka melalui buku ini. Aktivitas pembelajaran di buku ini mengajak siswa agar tidak malas berpikir meskipun tersedia kemudahan dengan adanya teknologi. Melalui buku ini, siswa juga akan lebih mengenal dan memahami koding dan kecerdasan artifisial. Dengan demikian, siswa dapat menggunakan pengetahuan dan keterampilannya dengan tepat dan bermanfaat luas berbekal koding dan kecerdasan artifisial.
+                                        <td>
+                                    </tr>
+                                </table> -->
+                            </div>
+                            <!-- <div id="detail_press2" class="team-overlay">
+                            </div> -->
+                            <?php
+                                $produk_kelas8_ing = site_url("produk_kelas8_ing");
+                            ?>
+                            <div class="container section-title" style="cursor:grab;">
+                                <a
+                                    href="<?php echo $produk_kelas8_ing?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Kelas IX Bahasa Inggris -->
+                    <div class="swiper-slide">
+                        <div class="team-card">
+                            <div class="team-image">
+                                <img src="asset/img/product/Cover Inggris Kls 9.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
+                                <div class="team-overlay">
+                                    <div class="social-links">
+                                        <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                        <a href="#"><i class="bi bi-facebook"></i></a>
+                                        <a href="#"><i class="bi bi-instagram"></i></a>
+                                        <a href="#"><i class="bi bi-linkedin"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-content" style="text-align: center;">
+                                <h3>Kelas IX</h3>
+                                <span></span>
+                                <!-- <table>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Judul Buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Koding dan Kecerdasan Artifisial (KA) untuk SMP/MTs Kelas VII<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Penulis<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>Candra Yanu Wardhana<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Jumlah halaman<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>224<td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ukuran buku<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>17,6 x 25 cm<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td>Harga<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses pengajuan HET<td>
+                                    </tr>
+                                    <tr>
+                                        <td>ISBN<td>
+                                        <td>:<td>
+                                        <td><td>
+                                        <td>dalam proses<td>
+                                    </tr>
+                                    <tr style="background-color : rgb(217, 216, 216)">
+                                        <td style ="vertical-align: top;">Sinopsis<td>
+                                        <td style ="vertical-align: top;">:<td>
+                                        <td><td>
+                                        <td>Pembelajaran koding dan kecerdasan artifisial (KKA) dipandang sebagai bagian penting dari literasi digital. Dengan pembelajaran KKA, siswa dapat memahami cara kerja teknologi dan menjadi konsumen informasi yang cerdas dan bertanggung jawab.
+                                            <br><br>
+                                            Buku <i>Koding dan Kecerdasan Artifisial untuk SMP/MTs Kelas VII</i> ini diterbitkan sebagai buku teks pendamping pembelajaran bagi siswa untuk mata pelajaran Koding dan Kecerdasan Artifisial (KKA). Adapun materi yang dipelajari di buku ini sebagai berikut. 
+                                            <br>
+                                            <table>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">1.<td>
+                                                    <td><td>
+                                                    <td>Berpikir komputasional<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">2.<td>
+                                                    <td><td>
+                                                    <td>Literasi Digital<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">3.<td>
+                                                    <td><td>
+                                                    <td>Literasi dan Etika Kecerdasan Artifisial<td>
+                                                </tr>
+                                                <tr>
+                                                    <td style ="vertical-align: top;">4.<td>
+                                                    <td><td>
+                                                    <td>Pemanfaatan dan Pengembangan Kecerdasan Artifisial<td>
+                                                </tr>
+                                            </table>
+                                            <br>
+                                            Siswa akan memahami peran teknologi di kehidupan sekitar mereka melalui buku ini. Aktivitas pembelajaran di buku ini mengajak siswa agar tidak malas berpikir meskipun tersedia kemudahan dengan adanya teknologi. Melalui buku ini, siswa juga akan lebih mengenal dan memahami koding dan kecerdasan artifisial. Dengan demikian, siswa dapat menggunakan pengetahuan dan keterampilannya dengan tepat dan bermanfaat luas berbekal koding dan kecerdasan artifisial.
+                                        <td>
+                                    </tr>
+                                </table> -->
+                            </div>
+                            <!-- <div id="detail_press2" class="team-overlay">
+                            </div> -->
+                            <?php
+                                $produk_kelas9_ing = site_url("produk_kelas9_ing");
+                            ?>
+                            <div class="container section-title" style="cursor:grab;">
+                                <a
+                                    href="<?php echo $produk_kelas9_ing?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Kelas V Koding dan KA -->
+                    <div class="swiper-slide">
+                        <div class="team-card">
+                            <div class="team-image">
+                                <img src="asset/img/product/Cover Koding dan KA Kls 5.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
                                 <div class="social-links">
                                     <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
                                     <a href="#"><i class="bi bi-facebook"></i></a>
@@ -274,21 +592,25 @@
                             <!-- <div id="detail_press1" class="team-overlay">
                             </div> -->
                             <?php
-                                $produk_kelas5= site_url("produk_kelas5");
+                                $produk_kelas5_kod = site_url("produk_kelas5_kod");
                             ?>
                             <div class="team-overlay">
                                 <div class="container section-title" style="cursor:grab;">
-                                    <a href="<?php echo $produk_kelas5?>"><h2>Detail Produk</h2></a>
+                                    <a
+                                        href="<?php echo $produk_kelas5_kod?>">
+                                        <h2>Detail Produk</h2>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Kelas VII -->
+                    <!-- Kelas VII Koding dan KA -->
                     <div class="swiper-slide">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="asset/img/product/Cover Koding dan KA Kls 7.jpeg" class="img-fluid" alt="" loading="lazy">
+                                <img src="asset/img/product/Cover Koding dan KA Kls 7.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
                                 <div class="team-overlay">
                                     <div class="social-links">
                                         <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -377,19 +699,23 @@
                             <!-- <div id="detail_press2" class="team-overlay">
                             </div> -->
                             <?php
-                                $produk_kelas7= site_url("produk_kelas7");
+                                $produk_kelas7_kod = site_url("produk_kelas7_kod");
                             ?>
                             <div class="container section-title" style="cursor:grab;">
-                                <a href="<?php echo $produk_kelas7?>"><h2>Detail Produk</h2></a>
+                                <a
+                                    href="<?php echo $produk_kelas7_kod?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Kelas X -->
+                    <!-- Kelas X Koding dan KA -->
                     <div class="swiper-slide">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="asset/img/product/Cover Koding dan KA Kls 10.jpeg" class="img-fluid" alt="" loading="lazy">
+                                <img src="asset/img/product/Cover Koding dan KA Kls 10.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
                                 <div class="team-overlay">
                                     <div class="social-links">
                                         <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -478,19 +804,23 @@
                             <!-- <div id="detail_press3" class="team-overlay">
                             </div> -->
                             <?php
-                                $produk_kelas10= site_url("produk_kelas10");
+                                $produk_kelas10_kod = site_url("produk_kelas10_kod");
                             ?>
                             <div class="container section-title" style="cursor:grab;">
-                                <a href="<?php echo $produk_kelas10?>"><h2>Detail Produk</h2></a>
+                                <a
+                                    href="<?php echo $produk_kelas10_kod?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Kelas XI -->
+                    <!-- Kelas XI Koding dan KA -->
                     <div class="swiper-slide">
                         <div class="team-card">
                             <div class="team-image">
-                                <img src="asset/img/product/Cover Koding dan KA Kls 11.jpeg" class="img-fluid" alt="" loading="lazy">
+                                <img src="asset/img/product/Cover Koding dan KA Kls 11.jpeg" class="img-fluid" alt=""
+                                    loading="lazy">
                                 <div class="team-overlay">
                                     <div class="social-links">
                                         <!-- <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -579,10 +909,13 @@
                             <!-- <div id="detail_press4" class="team-overlay">
                             </div> -->
                             <?php
-                                $produk_kelas11= site_url("produk_kelas11");
+                                $produk_kelas11_kod = site_url("produk_kelas11_kod");
                             ?>
                             <div class="container section-title" style="cursor:grab;">
-                                <a href="<?php echo $produk_kelas11?>"><h2>Detail Produk</h2></a>
+                                <a
+                                    href="<?php echo $produk_kelas11_kod?>">
+                                    <h2>Detail Produk</h2>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -610,7 +943,8 @@
                     <div class="contact-info">
                         <div class="contact-card">
                             <h3>Informasi Kontak</h3>
-                            <p>Anda dapat menghubungi kami, atau datang langsung ke kantor kami dengan alamat berikut ini
+                            <p>Anda dapat menghubungi kami, atau datang langsung ke kantor kami dengan alamat berikut
+                                ini
                                 :</p>
 
                             <div class="contact-details">

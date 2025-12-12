@@ -29,27 +29,45 @@ class Admin extends BaseController
         echo view("ui/v_footer", $data);
     }
 
-    public function produk_kelas5()
+    public function produk_kelas5_kod()
     {
         $data = [];
-        echo view("mainpage/v_produk_kelas5", $data);
+        echo view("mainpage/v_produk_kelas5_kod", $data);
     }
 
-    public function produk_kelas7()
+    public function produk_kelas7_kod()
     {
         $data = [];
-        echo view("mainpage/v_produk_kelas7", $data);
+        echo view("mainpage/v_produk_kelas7_kod", $data);
     }
 
-    public function produk_kelas10()
+    public function produk_kelas10_kod()
     {
         $data = [];
-        echo view("mainpage/v_produk_kelas10", $data);
+        echo view("mainpage/v_produk_kelas10_kod", $data);
     }
 
-    public function produk_kelas11()
+    public function produk_kelas11_kod()
     {
         $data = [];
-        echo view("mainpage/v_produk_kelas11", $data);
+        echo view("mainpage/v_produk_kelas11_kod", $data);
+    }
+
+    public function produk_kelas7_ing()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas7_ing", $data);
+    }
+
+    public function produk_kelas8_ing()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas8_ing", $data);
+    }
+
+    public function produk_kelas9_ing()
+    {
+        $data = [];
+        echo view("mainpage/v_produk_kelas9_ing", $data);
     }
 }
